@@ -1,0 +1,18 @@
+{
+  "nproc": 10,
+  "mode": "validate",
+  "oriImgDir": "/home/hootoo/Downloads/CFINet/tools/all_train_env/dataset_pineapple/valid/",
+  "oriAnnDir": "/home/hootoo/Downloads/CFINet/tools/all_train_env/dataset_pineapple/valid/",
+  "patchH": 640,
+  "patchW": 640,
+  "stepSzH": 150,
+  "stepSzW": 150,
+  "padVal": [
+    0, 0, 0
+  ],
+  "ignFillVal": [
+    0, 0, 0
+  ],
+  "interAreaIgnThr": 0.40,
+  "splDir": "path to save images and annotations"
+}
